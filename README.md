@@ -15,4 +15,8 @@ python3 main.py <filename> <dup>
 ## Nuevo comentario
 Hola Mundo.
 
+## Comentario del Admin
+Cambio realizado desde la cuenta admin o principal.
+
+
 
